@@ -21,7 +21,7 @@ export default function About({}: Props) {
         whileInView={{ x: 0, opacity: 1 }}
         viewport={{ once: true }}
         src="/images/about.png"
-        className="md:mb-0 mt-64 md:mt-10 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[500px] mb-10"
+        className="md:mb-0 mt-40 md:mt-10 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[500px] mb-10"
       />
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">
@@ -38,10 +38,7 @@ export default function About({}: Props) {
           totam deleniti dolores aspernatur rerum magnam exercitationem sequi
           fugiat a maxime libero deserunt est, harum nihil? Harum nisi eos
           voluptas doloribus nemo aliquam incidunt cupiditate. Ex quisquam
-          inventore maxime tempora accusantium sed repudiandae, ab in. Molestiae
-          eaque ducimus ullam qui sit nesciunt quas iusto asperiores! Dolorum
-          exercitationem corrupti modi obcaecati, porro sequi iure molestias
-          quam in placeat tenetur quisquam cupiditate earum?
+          inventore maxime tempora accusantium sed repudiandae, ab in.
         </p>
       </div>
     </div>
